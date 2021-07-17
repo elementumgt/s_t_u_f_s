@@ -2,13 +2,24 @@
     <div class="row justify-content-center">
         <div class="col col-md-10">
             <div class="gallery-container" id="gallery_privado">
-                <!--
-                    data-sub-html="<h4>Photo by - <a href='https://unsplash.com/@tobbes_rd' >Tobias Rademacher </a></h4><p> Location - <a href='https://unsplash.com/s/photos/puezgruppe%2C-wolkenstein-in-gr%C3%B6den%2C-s%C3%BCdtirol%2C-italien'>Puezgruppe, Wolkenstein in Gröden, Südtirol, Italien</a>layers of blue.</p>" 
-                
-                    <a data-lg-size="1600-1067" data-sub-html="<h4>Full Ingeniería/h4>" class="gallery-item" data-src="">
-                        <img alt="layers of blue." class="img-responsive" src="" />
-                    </a>
-                -->
+                <a data-lg-size="1600-1067" data-sub-html="<h4>Bodega DFO Huehuetenango</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_471d929a84454693a975d18970ac9ddb~mv2.jpg">
+                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_4a17f2f807b74f8aac275b8c126c4d86~mv2.jpg" />
+                </a>
+                <a data-lg-size="1600-1067" data-sub-html="<h4>Bodega DFO Huehuetenango</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_ddca0157bf634d689a388424c987346d~mv2.jpg">
+                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_8e69006fa98140e19c9bb6c2d8345960~mv2.jpg" />
+                </a>
+                <a data-lg-size="1600-1067" data-sub-html="<h4>Bodega DFO Huehuetenango</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_1f2f6ee01ec245799d9671928cf50252~mv2.jpg">
+                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_1f2f6ee01ec245799d9671928cf50252~mv2.jpg" />
+                </a>
+                <a data-lg-size="1600-1067" data-sub-html="<h4>Bodega DFO Huehuetenango</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_09e3a80887274b64b4db72ea13c9825b~mv2.jpg">
+                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_09e3a80887274b64b4db72ea13c9825b~mv2.jpg" />
+                </a>
+                <a data-lg-size="1600-1067" data-sub-html="<h4>Bodega DFO Huehuetenango</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_7845e427e34d4c7aba6409368b26b9de~mv2.jpg">
+                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_7845e427e34d4c7aba6409368b26b9de~mv2.jpg" />
+                </a>
+                <a data-lg-size="1600-1067" data-sub-html="<h4>Bodega DFO Huehuetenango</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_68ad4427fbde448fba32fd30a9d01f87~mv2.jpg">
+                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_68ad4427fbde448fba32fd30a9d01f87~mv2.jpg" />
+                </a>
             </div>
         </div>
     </div>
