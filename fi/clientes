@@ -1,10 +1,10 @@
-<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_de974b8fbb484ac19250b2412d4092c3~mv2.png" onclick="detailCard('')">
-<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_e6c95c18f34f4949bdd2fddae8a13c27~mv2.png" onclick="detailCard('')">
-<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_9ae1f3353a2f490880eb7b99c83da4f2~mv2.png" onclick="detailCard('')">
-<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_2a90658fc8384e9c986e5bf8d9af3196~mv2.png" onclick="detailCard('')">
+<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_de974b8fbb484ac19250b2412d4092c3~mv2.png" >
+<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_e6c95c18f34f4949bdd2fddae8a13c27~mv2.png" >
+<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_9ae1f3353a2f490880eb7b99c83da4f2~mv2.png" >
+<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_2a90658fc8384e9c986e5bf8d9af3196~mv2.png" >
 <img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_aa6a68e1a45b41cc88c7117735cc3af7~mv2.png" onclick="detailCard('docruiz')">
-<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_8046a3ccc2f7478dbfc15c5d9b218f82~mv2.png" onclick="detailCard('')">
-<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_c15afdf95e8c4efb8d1a416e6008c7db~mv2.png" onclick="detailCard('')">
-<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_f72b629d641d415b8d1a7288a5fddb65~mv2.png" onclick="detailCard('')">
+<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_8046a3ccc2f7478dbfc15c5d9b218f82~mv2.png" >
+<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_c15afdf95e8c4efb8d1a416e6008c7db~mv2.png" >
+<img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_f72b629d641d415b8d1a7288a5fddb65~mv2.png" >
 <img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_c90351d839cf4c1a954a0380767bd800~mv2.jpg" onclick="detailCard('zonamedica')">
 <img class="ui medium circular image" src="https://static.wixstatic.com/media/aa4465_4381f619e53b4dd49af044c43864abb0~mv2.jpg" onclick="detailCard('cepromedic')"> 
