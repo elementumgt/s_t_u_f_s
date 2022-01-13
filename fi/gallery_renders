@@ -1,26 +1,50 @@
-<div class="container-sm">
-    <div class="row justify-content-center">
-        <div class="col col-md-10">
-            <div class="gallery-container" id="gallery_renders">
-                <a data-lg-size="1600-1067" data-sub-html="<h4>Diseño Vivienda</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_b166cf84bfe845ff96b706f16eb5d0f5~mv2.jpg">
-                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_b166cf84bfe845ff96b706f16eb5d0f5~mv2.jpg" />
-                </a>
-                <a data-lg-size="1600-1067" data-sub-html="<h4>Diseño Vivienda</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_735a22854d2f43d094e25f6fa4957a00~mv2.jpg">
-                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_735a22854d2f43d094e25f6fa4957a00~mv2.jpg" />
-                </a>
-                <a data-lg-size="1600-1067" data-sub-html="<h4>Diseño Vivienda</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_4a16349adb514fbd8624852709674810~mv2.jpg">
-                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_4a16349adb514fbd8624852709674810~mv2.jpg" />
-                </a>
-                <a data-lg-size="1600-1067" data-sub-html="<h4>Diseño Vivienda</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_907d9b9c48be47aa9b6a1e3f5b6deee8~mv2.jpg">
-                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_907d9b9c48be47aa9b6a1e3f5b6deee8~mv2.jpg" />
-                </a>
-                <a data-lg-size="1600-1067" data-sub-html="<h4>Diseño Vivienda</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_56530dfa37bf46949f432e92936c3be1~mv2.jpg">
-                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_56530dfa37bf46949f432e92936c3be1~mv2.jpg" />
-                </a>
-                <a data-lg-size="1600-1067" data-sub-html="<h4>Diseño Vivienda</h4>" class="gallery-item" data-src="https://static.wixstatic.com/media/aa4465_0d623d7f3ff4488491c747b0d8d6b1e8~mv2.jpg">
-                    <img alt="layers of blue." class="img-responsive" src="https://static.wixstatic.com/media/aa4465_0d623d7f3ff4488491c747b0d8d6b1e8~mv2.jpg" />
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
+<ul class="wrapper">
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_b166cf84bfe845ff96b706f16eb5d0f5~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_b166cf84bfe845ff96b706f16eb5d0f5~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            </a>
+            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
+        </figure>
+    </li>
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_735a22854d2f43d094e25f6fa4957a00~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_735a22854d2f43d094e25f6fa4957a00~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            </a>
+            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
+        </figure>
+    </li>
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_4a16349adb514fbd8624852709674810~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_4a16349adb514fbd8624852709674810~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            </a>
+            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
+        </figure>
+    </li>
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_907d9b9c48be47aa9b6a1e3f5b6deee8~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_907d9b9c48be47aa9b6a1e3f5b6deee8~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            </a>
+            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
+        </figure>
+    </li>
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_56530dfa37bf46949f432e92936c3be1~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_56530dfa37bf46949f432e92936c3be1~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            </a>
+            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
+        </figure>
+    </li>
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_0d623d7f3ff4488491c747b0d8d6b1e8~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_0d623d7f3ff4488491c747b0d8d6b1e8~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            </a>
+            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
+        </figure>
+    </li>
+</ul>

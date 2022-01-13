@@ -1,0 +1,43 @@
+{
+    "_comment": [{
+            "src": "",
+            "w": 2500,
+            "h": 1875,
+            "title": ""
+        },
+        {
+            "src": "",
+            "w": 2500,
+            "h": 1875,
+            "title": ""
+        }
+    ],
+    "malto": [],
+    "mcope": [],
+    "lekaf": [],
+    "sjose": [],
+    "cruiz": [],
+    "icent": [],
+    "cosun": [],
+    "dfo": [],
+    "zmedi": [],
+    "cmedi": [{
+            "src": "https://static.wixstatic.com/media/aa4465_4c436d076bfe4d6081a66b68a2aff9f3~mv2.jpg",
+            "w": 2500,
+            "h": 1875,
+            "title": "Cepromedic"
+        },
+        {
+            "src": "https://static.wixstatic.com/media/aa4465_fd534ff6002346299df4b8e353fe5216~mv2.jpg",
+            "w": 2500,
+            "h": 1875,
+            "title": "Cepromedic"
+        },
+        {
+            "src": "https://static.wixstatic.com/media/aa4465_f36912596786401ca12f301e12022fcc~mv2.jpg",
+            "w": 2500,
+            "h": 1875,
+            "title": "Cepromedic"
+        }
+    ]
+}
