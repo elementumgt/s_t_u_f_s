@@ -1,14 +1,6 @@
 <ul class="wrapper">
     <li class="landscape">
         <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_fd908ae275124431b797986347dc75e9~mv2.jpg" itemprop="contentUrl" data-size="4032x3024">
-                <img src="https://static.wixstatic.com/media/aa4465_fd908ae275124431b797986347dc75e9~mv2.jpg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
-            </a>
-            <figcaption itemprop="caption description">DFO - Proyectos de Construcción</figcaption>
-        </figure>
-    </li>
-    <li class="landscape">
-        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
             <a href="https://static.wixstatic.com/media/aa4465_5b638835fe504ce39ea308d64043440b~mv2.jpeg" itemprop="contentUrl" data-size="4032x3024">
                 <img src="https://static.wixstatic.com/media/aa4465_5b638835fe504ce39ea308d64043440b~mv2.jpeg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
             </a>
@@ -25,14 +17,6 @@
     </li>
     <li class="landscape">
         <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_b911b9186c35447bb332c51c7669c141~mv2.jpg" itemprop="contentUrl" data-size="4032x3024">
-                <img src="https://static.wixstatic.com/media/aa4465_b911b9186c35447bb332c51c7669c141~mv2.jpg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
-            </a>
-            <figcaption itemprop="caption description">DFO - Proyectos de Construcción</figcaption>
-        </figure>
-    </li>
-    <li class="landscape">
-        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
             <a href="https://static.wixstatic.com/media/aa4465_0ac2fe57c55f46f298413573ee69289d~mv2.jpg" itemprop="contentUrl" data-size="4032x3024">
                 <img src="https://static.wixstatic.com/media/aa4465_0ac2fe57c55f46f298413573ee69289d~mv2.jpg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
             </a>
@@ -41,8 +25,24 @@
     </li>
     <li class="landscape">
         <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_218e0cb76ee04bf28b40447f08834a36~mv2.jpg" itemprop="contentUrl" data-size="4032x3024">
-                <img src="https://static.wixstatic.com/media/aa4465_218e0cb76ee04bf28b40447f08834a36~mv2.jpg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
+            <a href="https://static.wixstatic.com/media/aa4465_6632f5b6409d417e8af920e8a1017a4b~mv2.jpg" itemprop="contentUrl" data-size="4032x3024">
+                <img src="https://static.wixstatic.com/media/aa4465_6632f5b6409d417e8af920e8a1017a4b~mv2.jpg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
+            </a>
+            <figcaption itemprop="caption description">DFO - Proyectos de Construcción</figcaption>
+        </figure>
+    </li>
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_7ffef6ee1ccb4c4e9aaa94be495fe5a9~mv2.jpg" itemprop="contentUrl" data-size="4032x3024">
+                <img src="https://static.wixstatic.com/media/aa4465_7ffef6ee1ccb4c4e9aaa94be495fe5a9~mv2.jpg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
+            </a>
+            <figcaption itemprop="caption description">DFO - Proyectos de Construcción</figcaption>
+        </figure>
+    </li>
+    <li class="landscape">
+        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="https://static.wixstatic.com/media/aa4465_7fce2b2e38e7479d9949c01ca51eb476~mv2.jpg" itemprop="contentUrl" data-size="4032x3024">
+                <img src="https://static.wixstatic.com/media/aa4465_7fce2b2e38e7479d9949c01ca51eb476~mv2.jpg" itemprop="thumbnail" alt="DFO - Proyectos de Construcción" />
             </a>
             <figcaption itemprop="caption description">DFO - Proyectos de Construcción</figcaption>
         </figure>
