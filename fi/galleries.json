@@ -30,7 +30,13 @@
         }
     ],
     "icent": [],
-    "cosun": [],
+    "cosun": [{
+            "src": "https://static.wixstatic.com/media/aa4465_9a7cfb975cfe47a9a6839bd117e01d84~mv2.jpeg",
+            "w": 1280,
+            "h": 960,
+            "title": "Coasun"
+        }
+    ],
     "dfo": [],
     "zmedi": [{
             "src": "https://static.wixstatic.com/media/aa4465_2f4f92c456b24fb382c444bf40ea94bc~mv2.jpg",
