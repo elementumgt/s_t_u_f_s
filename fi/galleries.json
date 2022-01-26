@@ -14,7 +14,12 @@
     ],
     "malto": [],
     "mcope": [],
-    "lekaf": [],
+    "lekaf": [{
+        "src": "https://static.wixstatic.com/media/aa4465_0f4f05e451864f4db60253ae21858e06~mv2.jpeg",
+        "w": 3264,
+        "h": 2448,
+        "title": "Lekaf"
+    }],
     "sjose": [],
     "cruiz": [{
             "src": "https://static.wixstatic.com/media/aa4465_cd09409febd4434abe7f4a5d1869b6a3~mv2.jpg",
@@ -29,7 +34,18 @@
             "title": "Clínicas Ruiz"
         }
     ],
-    "icent": [],
+    "icent": [{
+        "src": "https://static.wixstatic.com/media/aa4465_c6eaf868eb9341648bc3518617e75126~mv2.jpeg",
+        "w": 3264,
+        "h": 2448,
+        "title": "InnovaCenter"
+    },
+    {
+        "src": "https://static.wixstatic.com/media/aa4465_9701432fbef642b6a59435807ffc9310~mv2.jpeg",
+        "w": 3264,
+        "h": 2448,
+        "title": "InnovaCenter"
+    }],
     "cosun": [{
             "src": "https://static.wixstatic.com/media/aa4465_9a7cfb975cfe47a9a6839bd117e01d84~mv2.jpeg",
             "w": 1280,
@@ -37,7 +53,18 @@
             "title": "Coasun"
         }
     ],
-    "dfo": [],
+    "dfo": [{
+        "src": "https://static.wixstatic.com/media/aa4465_07f01ab2bc0b47149e0af7ad4eedf8a9~mv2.jpg",
+        "w": 1280,
+        "h": 960,
+        "title": "Bodegas DFO"
+    },
+    {
+        "src": "https://static.wixstatic.com/media/aa4465_897d1895b13a4723985fd3258af24fc9~mv2.jpeg",
+        "w": 809,
+        "h": 1080,
+        "title": "Bodegas DFO"
+    }],
     "zmedi": [{
             "src": "https://static.wixstatic.com/media/aa4465_2f4f92c456b24fb382c444bf40ea94bc~mv2.jpg",
             "w": 1280,
