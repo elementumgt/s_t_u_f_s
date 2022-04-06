@@ -9,8 +9,8 @@
     </li>
     <li class="landscape">
         <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_735a22854d2f43d094e25f6fa4957a00~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
-                <img src="https://static.wixstatic.com/media/aa4465_735a22854d2f43d094e25f6fa4957a00~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            <a href="https://static.wixstatic.com/media/aa4465_25ee867cf520457cb222fce364238b67~mv2.png" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_25ee867cf520457cb222fce364238b67~mv2.png" itemprop="thumbnail" alt="Casa - Render 3D" />
             </a>
             <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
         </figure>
