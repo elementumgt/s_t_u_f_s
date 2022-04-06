@@ -7,6 +7,7 @@
             <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
         </figure>
     </li>
+    
     <li class="landscape">
         <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
             <a href="https://static.wixstatic.com/media/aa4465_25ee867cf520457cb222fce364238b67~mv2.png" itemprop="contentUrl" data-size="1920x1080">
@@ -17,34 +18,19 @@
     </li>
     <li class="landscape">
         <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_4a16349adb514fbd8624852709674810~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
-                <img src="https://static.wixstatic.com/media/aa4465_4a16349adb514fbd8624852709674810~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            <a href="https://static.wixstatic.com/media/aa4465_ab5a6914ebb14386b70cdef8669f7105~mv2.png" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_ab5a6914ebb14386b70cdef8669f7105~mv2.png" itemprop="thumbnail" alt="Casa - Render 3D" />
             </a>
             <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
         </figure>
     </li>
     <li class="landscape">
         <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_907d9b9c48be47aa9b6a1e3f5b6deee8~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
-                <img src="https://static.wixstatic.com/media/aa4465_907d9b9c48be47aa9b6a1e3f5b6deee8~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
+            <a href="https://static.wixstatic.com/media/aa4465_d6ed6faa285e4896b29a83df0447688a~mv2.png" itemprop="contentUrl" data-size="1920x1080">
+                <img src="https://static.wixstatic.com/media/aa4465_d6ed6faa285e4896b29a83df0447688a~mv2.png" itemprop="thumbnail" alt="Casa - Render 3D" />
             </a>
             <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
         </figure>
     </li>
-    <li class="landscape">
-        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_56530dfa37bf46949f432e92936c3be1~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
-                <img src="https://static.wixstatic.com/media/aa4465_56530dfa37bf46949f432e92936c3be1~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
-            </a>
-            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
-        </figure>
-    </li>
-    <li class="landscape">
-        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="https://static.wixstatic.com/media/aa4465_0d623d7f3ff4488491c747b0d8d6b1e8~mv2.jpg" itemprop="contentUrl" data-size="1920x1080">
-                <img src="https://static.wixstatic.com/media/aa4465_0d623d7f3ff4488491c747b0d8d6b1e8~mv2.jpg" itemprop="thumbnail" alt="Casa - Render 3D" />
-            </a>
-            <figcaption itemprop="caption description">Casa - Render 3D</figcaption>
-        </figure>
-    </li>
+   
 </ul>
